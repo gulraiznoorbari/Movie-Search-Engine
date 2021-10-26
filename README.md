@@ -2,10 +2,9 @@
 <h2>Movie Info App</h2>
 <p> JavaScript/jQuery Application that Fetches and Displays searched Movie Info using <a href="http://www.omdbapi.com/" target="_blank">OMDB API</a> through Axios.</p>
 </div>
-<h5>Main Page:</h5>
+<h4>Main Page:</h4>
 <img src="./images/screenshot-2.png">
-<br />
-<h5>Movie Info Page:</h5>
+<h4>Movie Info Page:</h4>
 <img src="./images/screenshot-1.png">
 
 <h4>Tech Stack Used:</h4>
