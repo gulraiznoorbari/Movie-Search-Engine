@@ -9,6 +9,7 @@
 
 <h4>Tech Stack Used:</h4>
 <li> JavaScript </li>
+<li> jQuery </li>
 <li> Bootstrap 4 <a href="https://bootswatch.com/united/">Theme</a></li>
 <li> Axios </li>
 <li> <a href="http://www.omdbapi.com/" target="_blank">OMDB API</a> </li>
