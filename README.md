@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Movie Info App</h2>
+<h2>Movie Search Engine</h2>
 <p> JavaScript/jQuery Application that Fetches and Displays searched Movie Info using <a href="http://www.omdbapi.com/" target="_blank">OMDB API</a> through Axios.</p>
 </div>
 <h4>Main Page:</h4>
